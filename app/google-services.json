@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623719423426",
+    "firebase_url": "https://isis3520-202220-team25-a0abb-default-rtdb.firebaseio.com",
+    "project_id": "isis3520-202220-team25-a0abb",
+    "storage_bucket": "isis3520-202220-team25-a0abb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623719423426:android:8735bda97f2e710ec90a5b",
+        "android_client_info": {
+          "package_name": "com.example.isis3520_202220_team25_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623719423426-sc5ctdj58kcvdo177vr9tild52u3udhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQaxUS1a0DLV1U4y9z09buzmUq9gt1vEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623719423426-sc5ctdj58kcvdo177vr9tild52u3udhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

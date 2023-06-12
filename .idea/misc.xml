@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.2285809906291834" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout-w936dp/activity_login.xml" value="0.21584699453551912" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout/activity_jobs_list.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout/activity_login.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout/activity_main.xml" value="0.2767210144927536" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout/content_jobs_listing.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout/fragment_blank.xml" value="0.24791666666666667" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout/item_jobs_list.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout/job_create.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout/job_detail.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout/job_profile.xml" value="0.35572916666666665" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout/jobs_listing.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/layout/jobs_listing2.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/dell5/Documents/Moviles/isis3520_202220_team25_kotlin/app/src/main/res/menu/bottom_menu.xml" value="0.34010416666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
